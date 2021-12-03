@@ -1,0 +1,56 @@
+body {
+    background-color: whitesmoke;
+}
+
+.heading {
+    background-color: black;
+}
+.heading p {
+    color: white;
+    font-size: 20px;
+}
+
+.main1 p {
+    font-size: 40px;
+}
+
+.main2 h2 {
+    color: grey;
+}
+.main2 p {
+    font-size: 20px;
+}
+
+button {
+    background-color: red;
+    color: white;
+}
+
+.end h1 {
+    color: red;
+}
+.end p,h2 {
+    font-size: 20px;
+    color: grey;
+}
+
+.btn1 {
+    background-color: red;
+    color: white;
+}
+.btn2 {
+    background-color: grey;
+    color: white;
+}
+
+.footer1 {
+    background-color: grey;
+}
+.footer1 h2 {
+    color: black;
+}
+
+.footer2 {
+    background-color: black;
+    color: white;
+}
